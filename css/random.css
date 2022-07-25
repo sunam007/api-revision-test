@@ -1,0 +1,17 @@
+body {
+  background-color: cadetblue;
+  text-align: center;
+}
+button {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 1px solid coral;
+  border-radius: 20px;
+  background-color: coral;
+  font-weight: 600;
+  font-size: large;
+  color: bisque;
+}
+img {
+  border-radius: 50%;
+}
