@@ -1,0 +1,27 @@
+body > h1 {
+  color: crimson;
+  text-align: center;
+}
+#country {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.country-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+
+  background-color: aquamarine;
+  padding: 0.5rem;
+  border: 1px solid aquamarine;
+  border-radius: 1rem;
+}
+button {
+  border: 1px solid darkseagreen;
+  border-radius: 10px;
+  padding: 8px;
+  margin-top: 1rem;
+  background-color: darkseagreen;
+}
